@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\zzzz\zzzz\bin\Debug\net10.0-windows\zzzz.exe
+C:\Users\USER\source\repos\zzzz\zzzz\bin\Debug\net10.0-windows\zzzz.deps.json
+C:\Users\USER\source\repos\zzzz\zzzz\bin\Debug\net10.0-windows\zzzz.runtimeconfig.json
+C:\Users\USER\source\repos\zzzz\zzzz\bin\Debug\net10.0-windows\zzzz.dll
+C:\Users\USER\source\repos\zzzz\zzzz\bin\Debug\net10.0-windows\zzzz.pdb
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.Form1.resources
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.AssemblyInfo.cs
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.dll
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\refint\zzzz.dll
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.pdb
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\zzzz.genruntimeconfig.cache
+C:\Users\USER\source\repos\zzzz\zzzz\obj\Debug\net10.0-windows\ref\zzzz.dll
